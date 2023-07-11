@@ -11,7 +11,7 @@ import pandas as pd
 abc = pd.read_csv('/home/sp-01/Downloads/sris.csv')
 os.chdir('/home/sp-01/Downloads/')
 abc.columns
-roi = {'Google_Cost': 0.7,
+roi = {'Google_Cost': 11.3,
        'Instagram_Cost': 0.3,
        'Facebook_Cost': 0.5,
        'Pinterest_Cost': 0.4,
